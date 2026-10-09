@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local secrets / tokens (never commit real credentials)
+.env
+*.token
+mcp-config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Generated outputs (keep examples/ committed, ignore local runs)
+output/
+*.local.svg
