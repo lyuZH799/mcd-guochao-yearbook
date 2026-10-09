@@ -1,0 +1,251 @@
+{
+  "success": true,
+  "code": 200,
+  "message": "请求成功",
+  "datetime": "2026-10-09 22:30:00",
+  "data": {
+    "list": [
+      {
+        "orderId": "SAMPLE0001",
+        "orderType": "到店",
+        "createTime": "2026-01-05 23:42:10",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []},
+          {"productCode": "P002", "productName": "麦辣鸡翅", "quantity": 1, "comboItemList": []},
+          {"productCode": "P003", "productName": "可口可乐(中)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "32.50"
+      },
+      {
+        "orderId": "SAMPLE0002",
+        "orderType": "外送",
+        "createTime": "2026-02-14 00:15:33",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P004", "productName": "巨无霸", "quantity": 1, "comboItemList": []},
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "28.00"
+      },
+      {
+        "orderId": "SAMPLE0003",
+        "orderType": "得来速",
+        "createTime": "2026-03-20 23:05:48",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []},
+          {"productCode": "P005", "productName": "麦辣鸡腿堡", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "35.50"
+      },
+      {
+        "orderId": "SAMPLE0004",
+        "orderType": "到店",
+        "createTime": "2026-04-02 22:58:11",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []},
+          {"productCode": "P006", "productName": "香芋派", "quantity": 2, "comboItemList": []}
+        ],
+        "realTotalAmount": "22.00"
+      },
+      {
+        "orderId": "SAMPLE0005",
+        "orderType": "外送",
+        "createTime": "2026-05-11 01:20:05",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P007", "productName": "麦咖啡(冰美式)", "quantity": 1, "comboItemList": []},
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "26.00"
+      },
+      {
+        "orderId": "SAMPLE0006",
+        "orderType": "到店",
+        "createTime": "2026-06-18 12:30:22",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P008", "productName": "板烧鸡腿堡", "quantity": 1, "comboItemList": []},
+          {"productCode": "P009", "productName": "玉米杯", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "30.00"
+      },
+      {
+        "orderId": "SAMPLE0007",
+        "orderType": "外送",
+        "createTime": "2026-07-07 23:48:59",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 3, "comboItemList": []},
+          {"productCode": "P002", "productName": "麦辣鸡翅", "quantity": 2, "comboItemList": []}
+        ],
+        "realTotalAmount": "45.00"
+      },
+      {
+        "orderId": "SAMPLE0008",
+        "orderType": "得来速",
+        "createTime": "2026-08-15 00:42:17",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P004", "productName": "巨无霸", "quantity": 1, "comboItemList": []},
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "29.00"
+      },
+      {
+        "orderId": "SAMPLE0009",
+        "orderType": "到店",
+        "createTime": "2026-09-01 23:10:40",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []},
+          {"productCode": "P010", "productName": "上校鸡块", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "33.00"
+      },
+      {
+        "orderId": "SAMPLE0010",
+        "orderType": "外送",
+        "createTime": "2026-09-22 02:05:13",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []},
+          {"productCode": "P007", "productName": "麦咖啡(冰美式)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "24.00"
+      },
+      {
+        "orderId": "SAMPLE0011",
+        "orderType": "到店",
+        "createTime": "2026-10-03 22:33:28",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []},
+          {"productCode": "P005", "productName": "麦辣鸡腿堡", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "36.00"
+      },
+      {
+        "orderId": "SAMPLE0012",
+        "orderType": "外送",
+        "createTime": "2026-10-19 23:55:02",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []},
+          {"productCode": "P006", "productName": "香芋派", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "21.00"
+      },
+      {
+        "orderId": "SAMPLE0013",
+        "orderType": "得来速",
+        "createTime": "2026-10-25 00:08:44",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P004", "productName": "巨无霸", "quantity": 1, "comboItemList": []},
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []}
+        ],
+        "realTotalAmount": "38.00"
+      },
+      {
+        "orderId": "SAMPLE0014",
+        "orderType": "到店",
+        "createTime": "2026-10-28 23:20:31",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 2, "comboItemList": []},
+          {"productCode": "P002", "productName": "麦辣鸡翅", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "34.00"
+      },
+      {
+        "orderId": "SAMPLE0015",
+        "orderType": "外送",
+        "createTime": "2026-11-09 01:47:09",
+        "beType": "标准店",
+        "beCode": "BJ002",
+        "storeCode": "A1002",
+        "storeName": "麦当劳(示例店B)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 1, "comboItemList": []},
+          {"productCode": "P007", "productName": "麦咖啡(冰美式)", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "25.00"
+      },
+      {
+        "orderId": "SAMPLE0016",
+        "orderType": "到店",
+        "createTime": "2026-11-20 22:14:55",
+        "beType": "标准店",
+        "beCode": "BJ001",
+        "storeCode": "A1001",
+        "storeName": "麦当劳(示例店A)",
+        "orderStatus": "已完成",
+        "orderProductList": [
+          {"productCode": "P001", "productName": "薯条(中)", "quantity": 3, "comboItemList": []},
+          {"productCode": "P005", "productName": "麦辣鸡腿堡", "quantity": 1, "comboItemList": []}
+        ],
+        "realTotalAmount": "41.00"
+      }
+    ]
+  }
+}
