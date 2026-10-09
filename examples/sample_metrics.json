@@ -1,0 +1,27 @@
+{
+  "mode": "full",
+  "total_orders": 16,
+  "total_spend": 500.0,
+  "avg_order": 31.25,
+  "favorite_item": "薯条(中)",
+  "favorite_count": 25,
+  "time_label": "深夜",
+  "time_dist": {
+    "深夜": 15,
+    "正午": 1
+  },
+  "channel_dist": {
+    "到店": 7,
+    "外送": 6,
+    "得来速": 3
+  },
+  "top_store_label": "店A",
+  "first_order": "2026-01-05",
+  "last_order": "2026-11-20",
+  "persona_title": "深夜薯条哲学家",
+  "archetype": "薯条哲学家",
+  "tier_name": "资深门徒",
+  "level": "Lv.3",
+  "progress": 64,
+  "slogan": "月亮不睡你不睡，麦辣薯条配工位"
+}
