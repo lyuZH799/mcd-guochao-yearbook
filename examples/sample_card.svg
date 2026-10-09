@@ -1,0 +1,49 @@
+<svg viewBox="0 0 680 960" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="20" width="640" height="920" rx="20" fill="#F7F1E3" stroke="#B22222" stroke-width="4"/>
+<rect x="32" y="32" width="616" height="896" rx="14" fill="none" stroke="#C9A227" stroke-width="1.5"/>
+<path d="M20 150 L20 40 Q20 20 40 20 L640 20 Q660 20 660 40 L660 150 Z" fill="#B22222"/>
+<path d="M60 120 q18 -14 36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0 t36 0" fill="none" stroke="#E7C66B" stroke-width="1.5"/>
+<rect x="56" y="36" width="50" height="50" rx="11" fill="#FFC72C"/>
+<path d="M68 64 Q74.5 47 81 64" fill="none" stroke="#DA291C" stroke-width="4" stroke-linecap="round"/>
+<path d="M81 64 Q87.5 47 94 64" fill="none" stroke="#DA291C" stroke-width="4" stroke-linecap="round"/>
+<text x="360" y="74" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="32" font-weight="500" fill="#F2D98C">我的麦门年报</text>
+<text x="360" y="108" text-anchor="middle" font-family="SimSun, serif" font-size="13" fill="#F2D98C" letter-spacing="3">MCD YEAR IN REVIEW</text>
+<rect x="588" y="36" width="56" height="56" rx="8" fill="#B22222" stroke="#E7C66B" stroke-width="1.5"/>
+<text x="616" y="80" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="30" font-weight="500" fill="#F7F1E3">門</text>
+<circle cx="340" cy="250" r="58" fill="#F7F1E3" stroke="#C9A227" stroke-width="3"/>
+<path d="M322 290 L358 290 L353 256 L327 256 Z" fill="#DA291C"/>
+<rect x="328" y="222" width="5" height="64" rx="2.5" fill="#C9A227"/>
+<rect x="337" y="216" width="5" height="70" rx="2.5" fill="#C9A227"/>
+<rect x="346" y="224" width="5" height="62" rx="2.5" fill="#C9A227"/>
+<text x="340" y="362" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="26" font-weight="500" fill="#B22222">深夜薯条哲学家</text>
+<text x="340" y="394" text-anchor="middle" font-family="SimSun, serif" font-size="15" fill="#C9A227">资深门徒 · Lv.3</text>
+<text x="340" y="422" text-anchor="middle" font-family="SimSun, serif" font-size="13" fill="#5A4A3A">月亮不睡你不睡，麦辣薯条配工位</text>
+<line x1="70" y1="446" x2="610" y2="446" stroke="#C9A227" stroke-width="1"/>
+<line x1="340" y1="470" x2="340" y2="692" stroke="#C9A227" stroke-width="1"/>
+<line x1="70" y1="581" x2="610" y2="581" stroke="#C9A227" stroke-width="1"/>
+<text x="178" y="502" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">总订单</text>
+<text x="178" y="534" text-anchor="middle" font-family="SimSun, serif" font-size="26" font-weight="500" fill="#1A1A1A">16</text>
+<text x="502" y="502" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">总花费</text>
+<text x="502" y="534" text-anchor="middle" font-family="SimSun, serif" font-size="26" font-weight="500" fill="#1A1A1A">¥500</text>
+<text x="178" y="613" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">最爱单品</text>
+<text x="178" y="645" text-anchor="middle" font-family="SimSun, serif" font-size="17" font-weight="500" fill="#1A1A1A">薯条(中)</text>
+<text x="502" y="613" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">平均客单</text>
+<text x="502" y="645" text-anchor="middle" font-family="SimSun, serif" font-size="18" font-weight="500" fill="#1A1A1A">¥31.2</text>
+<text x="70" y="712" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">数据画像</text>
+<line x1="245" y1="726" x2="245" y2="778" stroke="#C9A227" stroke-width="1"/>
+<line x1="435" y1="726" x2="435" y2="778" stroke="#C9A227" stroke-width="1"/>
+<text x="150" y="738" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">主力时段</text>
+<text x="150" y="766" text-anchor="middle" font-family="SimSun, serif" font-size="16" font-weight="500" fill="#1A1A1A">深夜</text>
+<text x="340" y="738" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">常去门店</text>
+<text x="340" y="766" text-anchor="middle" font-family="SimSun, serif" font-size="16" font-weight="500" fill="#1A1A1A">店A</text>
+<text x="530" y="738" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">下单渠道</text>
+<text x="530" y="766" text-anchor="middle" font-family="SimSun, serif" font-size="16" font-weight="500" fill="#1A1A1A">到店</text>
+<text x="70" y="800" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">麦门段位进度</text>
+<rect x="70" y="812" width="540" height="12" rx="6" fill="#E5D9BC"/>
+<rect x="70" y="812" width="346" height="12" rx="6" fill="#C9A227"/>
+<text x="610" y="823" text-anchor="end" font-family="SimSun, serif" font-size="11" fill="#8A7A5A">64%</text>
+<rect x="200" y="842" width="280" height="34" rx="17" fill="#FFC72C"/>
+<text x="340" y="865" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="15" font-weight="500" fill="#DA291C">我就喜欢 · I'M LOVIN' IT</text>
+<text x="340" y="904" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#8A7A5A">用 WorkBuddy + 麦当劳 MCP 生成</text>
+<text x="340" y="928" text-anchor="middle" font-family="SimSun, serif" font-size="12" fill="#B22222">github.com/lyuZH799/mcd-guochao-yearbook</text>
+</svg>
